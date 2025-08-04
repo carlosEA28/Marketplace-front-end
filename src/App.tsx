@@ -1,5 +1,3 @@
-import { Input } from "./components/ui/input";
-
 export default function App() {
-  return <Input />;
+  return <h1 className="text-primary">oi</h1>;
 }
