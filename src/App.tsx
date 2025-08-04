@@ -1,9 +1,5 @@
-function App() {
-  return (
-    <div>
-      <h1 className="text-white">Teste</h1>
-    </div>
-  );
-}
+import { Input } from "./components/ui/input";
 
-export default App;
+export default function App() {
+  return <Input />;
+}
